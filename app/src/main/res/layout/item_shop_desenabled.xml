@@ -16,7 +16,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/blue1"
+        android:background="@color/blueW"
         android:orientation="horizontal"
         android:padding="16dp">
 
@@ -25,7 +25,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:textColor="@color/black"
+            android:textColor="@color/grey"
             android:textSize="16dp"
             android:textStyle="bold"
             android:text="Салфетки"
@@ -35,7 +35,7 @@
             android:id="@+id/tv_count"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textColor="@color/black"
+            android:textColor="@color/grey"
             android:textSize="16dp"
             android:textStyle="bold"
             android:text="1"
